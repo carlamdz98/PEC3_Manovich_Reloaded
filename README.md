@@ -2,24 +2,23 @@
 
 ### Cultura Digital – UOC  
 
-**Autora:** Carla  
-**Asignatura:** Cultura Digital  
+**Autora:** Carla Mendoza
 **PEC:** 3 – Hibridación de medios  
 **Fecha:** diciembre 2025
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
-
-
 ## Planteamiento del proyecto
-La cultura digital contemporánea se caracteriza por la centralidad del software como motor de producción, distribución y experiencia de los medios. Tal como plantea Lev Manovich en *El software toma el mando*, el ordenador se convierte en un metamedio capaz de simular, transformar y combinar medios preexistentes, dando lugar a nuevas formas culturales que no pueden entenderse desde categorías tradicionales.
 
-En este contexto, Manovich introduce el concepto de hibridación de medios para describir aquellos casos en los que técnicas, interfaces y lógicas propias de medios anteriormente diferenciados se fusionan en una experiencia coherente. A diferencia de la multimedia, donde los distintos medios coexisten de forma yuxtapuesta, la hibridación implica una integración profunda que genera nuevas formas de representación e interacción.
+La cultura digital contemporánea se caracteriza por el papel central del software en la producción, distribución y experiencia de los medios. Según Lev Manovich, en *El software toma el mando*, el ordenador se consolida como un **metamedio**, es decir, un sistema capaz de simular, transformar y combinar medios preexistentes. Esta condición modifica las formas culturales tradicionales y dificulta su análisis a partir de categorías mediáticas cerradas.
 
-Para identificar estos procesos de hibridación, Manovich propone atender tanto a las nuevas formas de representar el mundo mediante datos como a las maneras en que el usuario interactúa con el medio. La hibridación puede manifestarse en la interfaz, en la manipulación algorítmica del contenido o en la aparición de estéticas híbridas que ya no remiten a un medio único.
+En este contexto, Manovich introduce el concepto de **hibridación de medios** para describir la integración de técnicas, interfaces y lógicas procedentes de medios que anteriormente funcionaban de manera separada. A diferencia de la multimedia, en la que distintos medios se presentan conjuntamente sin una integración profunda, la hibridación implica la fusión de sus principios operativos. Como resultado, se generan nuevas formas de representación, interacción y lenguaje mediático.
 
-A partir de este marco teórico, esta PEC analiza dos casos contemporáneos de software cultural: BeReal y Classcraft. Ambos ejemplifican procesos de hibridación en contextos distintos —las redes sociales y la educación— al combinar técnicas de representación, sistemas algorítmicos e interfaces procedentes de tradiciones mediáticas diversas, dando lugar a experiencias culturales nuevas.
+Para analizar estos procesos, Manovich propone atender tanto a las formas de representación basadas en datos como a los modos de interacción que el software ofrece al usuario. La hibridación puede observarse en el diseño de la interfaz, en la manipulación algorítmica de los contenidos o en la aparición de estéticas que ya no se asocian de forma clara a un único medio de origen.
 
+Aunque el marco teórico de Lev Manovich sigue resultando especialmente útil para analizar la cultura digital contemporánea, su aplicación a casos actuales permite identificar ciertos límites. La noción de hibridación de medios continúa siendo válida para comprender cómo el software integra técnicas, interfaces y lenguajes mediáticos. Sin embargo, algunos fenómenos recientes, como la intensificación del control algorítmico, la presión social asociada a la visibilidad constante o la gestión masiva de datos personales, han adquirido una centralidad que no siempre aparece desarrollada con profundidad en su obra.
+
+Esta distancia temporal no invalida la propuesta de Manovich, sino que invita a utilizar su marco teórico de forma crítica y actualizada. Sus conceptos permiten identificar con claridad los procesos de fusión mediática que estructuran las plataformas digitales contemporáneas, pero requieren ser complementados con una reflexión sobre las implicaciones sociales, culturales y éticas que emergen en el contexto digital actual.
 
 ## Re-descubriendo la hibridacion: BeReal
 
