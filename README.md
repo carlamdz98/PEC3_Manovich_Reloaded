@@ -24,7 +24,7 @@ Desde una perspectiva crítica, la hibridación de medios no puede valorarse de 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/BeReal._Logo.svg/1200px-BeReal._Logo.svg.png" alt="BeReal" width="200">
 </p>
-<br>
+
 BeReal es una red social móvil lanzada en 2020 cuyo objetivo es promover una representación cotidiana más auténtica frente a la estética performativa de plataformas como Instagram (Fernández, 2022; Rogers, 2022). Su funcionamiento se articula en torno a una notificación diaria y aleatoria que obliga al usuario a capturar y publicar, en un breve margen de tiempo, el instante presente. Cada publicación combina simultáneamente una fotografía con la cámara trasera y un autorretrato con la cámara frontal, configurando una “imagen dual” que integra entorno y sujeto en una única interfaz, sin posibilidad de edición ni uso de imágenes previas.
 
 Desde la perspectiva teórica de Manovich, BeReal puede interpretarse como un caso de **hibridación mediática**, ya que no se limita a la mera suma de formatos, sino que integra técnicas y lógicas de la fotografía instantánea, la mensajería en tiempo real y las redes sociales en una experiencia coherente mediada por software (Manovich, 2013). La ausencia de filtros, la interfaz minimalista, la supresión de métricas visibles como los “likes” y el uso de RealMojis refuerzan esta combinación entre comunicación visual, expresión personal y sincronización social.
@@ -37,7 +37,7 @@ Desde la experiencia de uso, la aplicación puede percibirse inicialmente como u
 <p align="center">
   <img src="https://intef.es/wp-content/uploads/2021/07/02_ClassCraft.png" alt="Classcraft" width="300">
 </p>
-<br>
+
 Classcraft es una plataforma educativa digital creada en 2013 que transforma el aula en un entorno de juego de rol multijugador mediante la integración de mecánicas propias del videojuego en el contexto educativo formal (Calvillo Castro, s.f.; Classcraft, s.f.). Su objetivo principal es aumentar la motivación, la participación y la implicación del alumnado, no como simple recurso lúdico, sino como un medio híbrido que combina prácticas pedagógicas tradicionales con lógicas operativas del diseño de videojuegos. A través de una interfaz digital, el alumnado adopta roles, crea avatares y participa en un universo narrativo donde las acciones cotidianas del aula se traducen en puntos, niveles y recompensas, generando una continuidad entre aprendizaje y juego.
 
 Desde el punto de vista pedagógico, la gamificación propuesta por Classcraft resulta especialmente eficaz en educación primaria y secundaria, donde la atención y la motivación suelen ser más frágiles ante contenidos teóricos densos (INTEF, s.f.). La introducción de dinámicas lúdicas contribuye a dinamizar la clase y a fomentar una implicación más activa del alumnado. No obstante, su uso no debería ser permanente ni exclusivo, ya que el proceso educativo también implica aprender a afrontar tareas menos atractivas sin depender de estímulos constantes. En este sentido, Classcraft funciona de manera más adecuada como recurso complementario, integrado de forma puntual y reflexiva en la práctica docente.
@@ -73,6 +73,8 @@ Rogers, R. (2022). **Cómo funciona BeReal, la nueva app sin filtro**. WIRED en 
 Classcraft (s.f.). **Plataforma educativa de gamificación**. Sitio oficial: https://www.classcraft.com
 
 Calvillo Castro, K. (s.f.). **Classcraft: convierte la clase en una aventura épica**. Observatorio de Tecnología Educativa, INTEF.
+
+OpenAI. (2025). **ChatGPT (modelo GPT-5.2) [Modelo de lenguaje de gran tamaño]**. https://chat.openai.com/
 
 
 ----
